@@ -19,18 +19,16 @@ In the Summer of 1944 the Germans and Allies faced off across the English Channe
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
-_The sites of theatres in London during 1600s_
+
 ## 'Doodlebugs' -The V2 Rocket
 
  Thanks to new technological advancements and breakthroughs the Germans had recently developed a new weapon. The impact this new ‘revenge weapon’ (Vergeltungswaffen) used by the Germans towards the end of WW2: the V-1 flying bomb, also known as the doodlebug. Nicknamed because of its erratic movement and the buzzing noise which signalled its arrival overhead, the doodlebug was a jet engined flying bomb. The heavy bombing of Kent with 2,400 doodlebugs in the Summer of 1944 would lead to this period being known retrospectively as ‘Doodlebug Summer’.
 
 
-<param ve-image 
-       label="V2 rocket"
+<param ve-image label="V2 rocket"
        description="AA V2" 
        license="Goshimini, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" 
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg">
+      url="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg">
 
 ## Bomber's Alley
 A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of the bombing in the Kent Section of the South East of England, providing a visual explanation for the name ‘Bomb Alley’ that was given to Kent during the Blitz. Kent’s location on route to the more densely populated city of London, which was the Germans’ main target, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead.
