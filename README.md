@@ -29,6 +29,9 @@ In the Summer of 1944 the Germans and Allies faced off across the English Channe
        description="A V2" 
        license="Goshimini, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" 
       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg">
+      
+##
+      "I remember them very clearly. They made a sound like a lorry engine going very fast. They kept flying until they ran out of fuel. Then they simply fell to the ground and exploded. Whenever we heard a doodlebug everyone looked up and followed it with their eyes until it had gone over past where we were standing. If the engine stopped before it got to us that was the time to worry! Sometimes a doodlebug dropped to earth immediately and sometimes it would continue to glide, gradually losing height. Very scary!" 2
 
 ## Bomber's Alley
 A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of the bombing in the Kent Section of the South East of England, providing a visual explanation for the name ‘Bomb Alley’ that was given to Kent during the Blitz. Kent’s location on route to the more densely populated city of London, which was the Germans’ main target, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead.
@@ -43,14 +46,14 @@ A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of th
        url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg">
        
  ## Last of the bombs
- Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. By the end of the war, doodlebugs had killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.7
+ Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. By the end of the war, doodlebugs had killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.  3
  
   
 
 ## References 
 1.https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/d-day-deception/
-
-7."Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps." Daniel Crouch Rare Books - Antique and Vintage Maps, Rare Books, Charts and Atlases. The Kent Messenger, 1944. Web. 6 Apr. 2022.
+2.Kitcherside, Peter. "BBC - WW2 People's War - Doodlebugs And V2's." BBC.co.uk. 2005. Web. 1 Apr. 2022. (Attribution: WW2 People's War is an online archive of wartime memories contributed by members of the public and gathered by the BBC. The archive can be found at bbc.co.uk/ww2peopleswar)
+3."Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps." Daniel Crouch Rare Books - Antique and Vintage Maps, Rare Books, Charts and Atlases. The Kent Messenger, 1944. Web. 6 Apr. 2022.
 
 
 
