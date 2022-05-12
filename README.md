@@ -24,7 +24,7 @@ In the Summer of 1944 the Germans and Allies faced off across the English Channe
 
  Thanks to new technological advancements and breakthroughs the Germans had recently developed a new weapon. The impact this new ‘revenge weapon’ (Vergeltungswaffen) used by the Germans towards the end of WW2: the V-1 flying bomb, also known as the doodlebug. Nicknamed because of its erratic movement and the buzzing noise which signalled its arrival overhead, the doodlebug was a jet engined flying bomb. The heavy bombing of Kent with 2,400 doodlebugs in the Summer of 1944 would lead to this period being known retrospectively as ‘Doodlebug Summer’.
  
-       "I remember them very clearly. They made a sound like a lorry engine going very fast. They kept flying until they ran out of fuel. Then they simply fell to the ground and exploded. Whenever we heard a doodlebug everyone looked up and followed it with their eyes until it had gone over past where we were standing. If the engine stopped before it got to us that was the time to worry! Sometimes a doodlebug dropped to earth immediately and sometimes it would continue to glide, gradually losing height. Very scary!" 2
+       "I remember them very clearly. They made a sound like a lorry engine going very fast. They kept flying until they ran out of fuel. Then they simply fell to the ground and exploded. Whenever we heard a doodlebug everyone looked up and followed it with their eyes until it had gone over past where we were standing. If the engine stopped before it got to us that was the time to worry! Sometimes a doodlebug dropped to earth immediately and sometimes it would continue to glide, gradually losing height. Very scary!" - Peter Kitcherside
 
 
 <param ve-image label="V2 rocket"
@@ -54,7 +54,9 @@ A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of th
 
 ## References 
 1.https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/d-day-deception/
+
 2.Kitcherside, Peter. "BBC - WW2 People's War - Doodlebugs And V2's." BBC.co.uk. 2005. Web. 1 Apr. 2022. (Attribution: WW2 People's War is an online archive of wartime memories contributed by members of the public and gathered by the BBC. The archive can be found at bbc.co.uk/ww2peopleswar)
+
 3."Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps." Daniel Crouch Rare Books - Antique and Vintage Maps, Rare Books, Charts and Atlases. The Kent Messenger, 1944. Web. 6 Apr. 2022.
 
 
