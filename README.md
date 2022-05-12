@@ -10,42 +10,39 @@
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Samuel_Pepys.jpg" label="Samuel Pepys/John Hayls, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
 
-# Sample visual essay
+# The Summer of 1944 Kent
 
-Davenant and Drysden's "The Tempest" was a hugely popular adaptation of Shakespeare's original work. This also had the benefit of allowing new audiences to interact and enjoy the work especially due to the blooming nature of theatre and their productions at this time.
-
-Samuel Pepys' diary features several entries detailing trips that he enjoyed not only was he frequently attending the productions but he records the enjoyment of the crowd at each subsequent performances, over the course of 18-20 months. This showed the vibrant health of the cultural side of London during the period, with the longevity of productions indicating a popularity with audience and manuscripts of the plays, surviving that although modern adaptations have been made. The contiuned popularity and the human element that clearly resonates with a wide audience remains unchanged despite modern changes. This has a parity with today where in a modernising and changing world the presentaton alters but the content that draws and interest and creates unity remains at its core largely unchanged. 
+In the Summer of 1944 the Germans and Allies faced off across the English Channel, believing due to the close coastline and large port in the area the Germans were convinced that the invasion would occur from Dover to Calais. A fake invading army squadron was hosted there under a fake general, known as FUSAG (First United STates Army Group). Numerous fake rafts were built using scaffolding tubes, barrels, wood and canvas and these dummy land=ding craft were launched on the 5th Aug along with huge spikes in communications and radio messages. Known as Operation Fortitude South this was believed to be a hugely successful deception aiding the course of the D-Day invasion. This was not however the only part Kent had to play in the outcome of the war.
+ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Samuel_Pepys.jpg" label="Samuel Pepys/John Hayls, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Basic usage
+_The sites of theatres in London during 1600s_
+## 'Doodlebugs' -The V2 Rocket
 
-## London
+ Thanks to new technological advancements and breakthroughs the Germans had recently developed a new weapon. The impact this new ‘revenge weapon’ (Vergeltungswaffen) used by the Germans towards the end of WW2: the V-1 flying bomb, also known as the doodlebug. Nicknamed because of its erratic movement and the buzzing noise which signalled its arrival overhead, the doodlebug was a jet engined flying bomb. The heavy bombing of Kent with 2,400 doodlebugs in the Summer of 1944 would lead to this period being known retrospectively as ‘Doodlebug Summer’.
 
-_The sites of theatres in London during 1600s_ This is just an image shown the multitude of sites across London which were part of the vibrantentertainment productions at this time. Due to this high density of troupes it is easier to understand the direct competition they had with each other.
-Especially as they shared one common audience and were aiming to attract the majority of the crowd,
-the life as a performer was like many other during this time day to day living. With the clear popularity of the theatre and the fact that it as performed making the works more accessible than ever before, you no longer needed to read in order to access them. Nor would you have needed the money to buy the texts or published works. In fact the access into theatres at ths time was very cheap.
+
 <param ve-image 
        label="Theatres in London"
        description="A map depicitng the locale of theatres in London" 
        license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/London_map_showing_Shakespearean_theatres.png">
 
-## Map
+## Bomber's Alley
+A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of the bombing in the Kent Section of the South East of England, providing a visual explanation for the name ‘Bomb Alley’ that was given to Kent during the Blitz. Kent’s location on route to the more densely populated city of London, which was the Germans’ main target, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead.
 
-The opposing theatre troupes within London were often in competition with each other, and so productions and the source material was jealously guarded with the popular productions being particularly in demand. This meant that skilled playwrights, who were often actors first, could ensure the fortune and success of their fellow performers. Indeed many productions ere written with the active troupe member refernced as their character in the initial 'scripts' or the characters name is replaced almost synonymously.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Shakespearean Theatre 
- The King's Men is the acting company to which William Shakespeare (1564–1616) belonged for most of his career. Formerly known as the Lord Chamberlain's Men during the reign of Queen Elizabeth I, they became the King's Men in 1603 when King James I ascended the throne and became the company's patron.
+## Further Sube=terfuge 
+ It was believed that this situation was only worsened by the decisions made by the wartime leaders of Britain. The heavy shelling and intensive bombing on London ahd taken its toll however and the decimated city was far more densely populated than most of the country. The decision was then made to
   
 
-## Multiple viewers
+## 
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
