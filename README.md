@@ -37,7 +37,7 @@ A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of th
 ## Further Subterfuge 
  It was believed that this situation was only worsened by the decisions made by the wartime leaders of Britain. The heavy shelling and intensive bombing on London ahd taken its toll however and the decimated city was far more densely populated than most of the country. The decision was then made torelease propaganda and encoded radio with the message that the bombs were overfueled, and due to this miscalculation most of them had overshot London with the payload. Unfortunately, it worked and many rockets once destined for the capital were landing in Kent, furthermore those shot down by countermeasures or even tipped over by allied pilots would crash down on kent. More sparsely populated than London certainly but it still cost many lives. 
  <param ve-image 
-       label="V2 tipped over"
+       label="V2 tipped over by a Spitfire"
        description="A spitfire tipping a V2 with its wing" 
        license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" 
        url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg">
