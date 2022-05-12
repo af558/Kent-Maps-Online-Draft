@@ -29,7 +29,7 @@ In the Summer of 1944 the Germans and Allies faced off across the English Channe
 
 <param ve-image label="V2 rocket"
        description="A V2" 
-       license="Goshimini, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" 
+       license="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg" 
       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg">
       
 ##
