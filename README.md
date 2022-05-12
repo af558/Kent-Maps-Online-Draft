@@ -23,6 +23,8 @@ In the Summer of 1944 the Germans and Allies faced off across the English Channe
 ## 'Doodlebugs' -The V2 Rocket
 
  Thanks to new technological advancements and breakthroughs the Germans had recently developed a new weapon. The impact this new ‘revenge weapon’ (Vergeltungswaffen) used by the Germans towards the end of WW2: the V-1 flying bomb, also known as the doodlebug. Nicknamed because of its erratic movement and the buzzing noise which signalled its arrival overhead, the doodlebug was a jet engined flying bomb. The heavy bombing of Kent with 2,400 doodlebugs in the Summer of 1944 would lead to this period being known retrospectively as ‘Doodlebug Summer’.
+ 
+       "I remember them very clearly. They made a sound like a lorry engine going very fast. They kept flying until they ran out of fuel. Then they simply fell to the ground and exploded. Whenever we heard a doodlebug everyone looked up and followed it with their eyes until it had gone over past where we were standing. If the engine stopped before it got to us that was the time to worry! Sometimes a doodlebug dropped to earth immediately and sometimes it would continue to glide, gradually losing height. Very scary!" 2
 
 
 <param ve-image label="V2 rocket"
@@ -31,7 +33,7 @@ In the Summer of 1944 the Germans and Allies faced off across the English Channe
       url="https://upload.wikimedia.org/wikipedia/commons/e/e9/V-2_Rocket_Flying_Heritage_Collection%28Side%29.jpg">
       
 ##
-      "I remember them very clearly. They made a sound like a lorry engine going very fast. They kept flying until they ran out of fuel. Then they simply fell to the ground and exploded. Whenever we heard a doodlebug everyone looked up and followed it with their eyes until it had gone over past where we were standing. If the engine stopped before it got to us that was the time to worry! Sometimes a doodlebug dropped to earth immediately and sometimes it would continue to glide, gradually losing height. Very scary!" 2
+
 
 ## Bomber's Alley
 A map in ‘The Kent Messenger’ from the Summer of 1944 shows the extent of the bombing in the Kent Section of the South East of England, providing a visual explanation for the name ‘Bomb Alley’ that was given to Kent during the Blitz. Kent’s location on route to the more densely populated city of London, which was the Germans’ main target, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead.
