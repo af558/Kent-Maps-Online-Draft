@@ -3,7 +3,7 @@
 
 <param ve-config 
        title="Kent 1944"
-       author="Researched by Hannah and written up by Alfie Forsyth"
+       author="Researched by Hannah and Written by Alfie Forsyth"
        banner="https://upload.wikimedia.org/wikipedia/commons/0/00/DecoyLCT.jpg" label=War Office official photographer, Public domain, via Wikimedia Commons
        layout="vertical">
 
