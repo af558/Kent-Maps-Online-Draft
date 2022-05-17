@@ -3,7 +3,7 @@
 
 <param ve-config 
        title="Kent 1944"
-       author="Alfie Forsyth"
+       author="Researched by Hannah and written up by Alfie Forsyth"
        banner="https://upload.wikimedia.org/wikipedia/commons/0/00/DecoyLCT.jpg" label=War Office official photographer, Public domain, via Wikimedia Commons
        layout="vertical">
 
@@ -12,7 +12,7 @@
 
 # The Summer of 1944 Kent
 
-In the Summer of 1944 the Germans and Allies faced off across the English Channel, believing due to the close coastline and large port in the area the Germans were convinced that the invasion would occur from Dover to Calais. A fake invading army squadron was hosted there under a fake general, known as FUSAG (First United STates Army Group).1 Numerous fake rafts were built using scaffolding tubes, barrels, wood and canvas and these dummy landding craft were launched on the 5th Aug along with huge spikes in communications and radio messages. Known as Operation Fortitude South this was believed to be a hugely successful deception aiding the course of the D-Day invasion. This was not however the only part Kent had to play in the outcome of the war.
+In the Summer of 1944 the Germans and Allies faced off across the English Channel, believing due to the close coastline and large port in the area the Germans were convinced that the invasion would occur from Dover to Calais. A fake invading army squadron was hosted there under a fake general, known as FUSAG (First United States Army Group).1 Numerous fake rafts were built using scaffolding tubes, barrels, wood and canvas and these dummy landding craft were launched on the 5th Aug along with huge spikes in communications and radio messages. Known as Operation Fortitude South this was believed to be a hugely successful deception aiding the course of the D-Day invasion. This was not however the only part Kent had to play in the outcome of the war.
  
 <param ve-image url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg"> 
 <param ve-map center="Q2019734" zoom="8">
